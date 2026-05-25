@@ -59,7 +59,7 @@ All projects here are **independent learning projects** — built to develop rea
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kranthi%20Paul-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/kranthi-paul-536b25158)
-&nbsp;
+
 [![GitHub](https://img.shields.io/badge/GitHub-KP--Kranthi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KP-Kranthi)
 
 ---
