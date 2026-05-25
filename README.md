@@ -1,65 +1,60 @@
-# Hi, I'm Kranthi Paul 👋
+# Kranthi Paul
 
-**Data Analyst @ TELUS Health | Business Intelligence | Operations Analytics**
-
-📍 Vancouver, BC, Canada
-🔗 [LinkedIn](https://www.linkedin.com/in/kranthipaul-536b25158)
+**Data Analyst · Vancouver, BC**
 
 ---
 
-## What I Do
-
-I'm a Data Analyst with hands-on experience turning raw operational data into dashboards, automated workflows, and workforce insights. Day-to-day I work with:
-
-- **Looker + Google BigQuery** — building dashboards and reports from BigQuery views with calculated metrics and custom KPIs
-- **Google Apps Script** — automating data workflows (hourly snapshots, scheduled deduplication jobs, process automation)
-- **SQL + Python** — data extraction, cleaning, ad hoc analysis
-- **Power BI & Tableau** — dashboards for business reporting and executive presentations
-
-I hold an **MBA specialising in Business Analytics** from University Canada West, Vancouver.
+Data analyst with hands-on experience in business reporting, interactive dashboards, and end-to-end data pipeline development. Currently transitioning into a senior data analyst or data science role, with a focus on scalable data engineering practices and cloud-based analytics. Passionate about turning raw data into decisions that matter.
 
 ---
 
-## My Tech Stack
+## 🛠 Tech Stack
 
-**BI & Visualisation**
-`Looker` `Power BI` `Tableau` `Google Sheets` `Excel`
+**Languages & Query**
 
-**Data & Cloud**
-`Google BigQuery` `SQL` `Python`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Automation & Scripting**
-`Google Apps Script` `Python scripting`
+**Data Engineering & Processing**
 
-**Data Engineering (Learning)**
-`Apache Spark` `PySpark` `Databricks` `Delta Lake` `Medallion Architecture`
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**Machine Learning (Learning)**
-`Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+**Visualisation & Reporting**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+
+**Tools & Version Control**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## Projects
+## 📚 Currently Learning
 
-All projects here are **independent learning projects** — built to develop real skills in data engineering, machine learning, and analytics beyond my day job.
+> Deepening expertise in Apache Spark, Databricks, and cloud-based data engineering — with a focus on production-grade pipeline design using the Medallion Architecture (Bronze → Silver → Gold).
 
-| Project | What it is | Tech |
+---
+
+## 📂 Featured Projects
+
+| Project | Tools Used | Description |
 |---|---|---|
-| [E-Commerce Data Pipeline on Databricks](https://github.com/KP-Kranthi/Ecommerce-pipeline-databricks) | End-to-end ETL pipeline using Medallion Architecture (Bronze → Silver → Gold) | Databricks, PySpark, Delta Lake, Unity Catalog |
-| [Telco Customer Churn Prediction](https://github.com/KP-Kranthi/Telco-Customer-Churn-Prediction) | ML classification model — 79.2% accuracy after tuning | Python, Scikit-learn, Decision Tree, KNN |
-| [Diabetes Early Detection](https://github.com/KP-Kranthi/Diabetes-early-detection-Prevention-) | Predictive analytics for early disease detection | Python, Jupyter |
+| [E-Commerce Data Pipeline](https://github.com/KP-Kranthi/Ecommerce-pipeline-databricks) | PySpark · Databricks · Delta Lake · SQL | End-to-end data pipeline using Medallion Architecture; ingests raw e-commerce data through Bronze, Silver, and Gold layers for BI-ready reporting |
+| *(Your project name)* | *(Tools)* | *(One-line description of what it does and why it matters)* |
+| *(Your project name)* | *(Tools)* | *(One-line description of what it does and why it matters)* |
 
 ---
 
-## Currently Learning
+## 🤝 Connect
 
-- Advanced data engineering patterns (streaming, incremental loads)
-- Expanding Databricks skills into workflow orchestration
-- dbt (data build tool) for transformation layer management
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kranthi%20Kiran-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/kranthi-paul-536b25158)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-KP--Kranthi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KP-Kranthi)
 
 ---
 
-## Let's Connect
-
-I'm open to collaborating on data analytics, BI, or data engineering projects.
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kranthipaul-536b25158) or explore my repos below.
+<sub>Open to data analyst and data engineering opportunities in Vancouver, BC and remotely across Canada.</sub>
