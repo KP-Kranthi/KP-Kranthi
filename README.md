@@ -33,25 +33,32 @@ Data analyst with hands-on experience in business reporting, interactive dashboa
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
-> Deepening expertise in Apache Spark, Databricks, and cloud-based data engineering — with a focus on production-grade pipeline design using the Medallion Architecture (Bronze → Silver → Gold).
+- Advanced data engineering patterns (streaming, incremental loads)
+- Expanding Databricks skills into workflow orchestration
+- dbt (data build tool) for transformation layer management
 
 ---
 
-## 📂 Featured Projects
 
-| Project | Tools Used | Description |
+## Projects
+
+All projects here are **independent learning projects** — built to develop real skills in data engineering, machine learning, and analytics beyond my day job.
+
+| Project | What it is | Tech |
 |---|---|---|
-| [E-Commerce Data Pipeline](https://github.com/KP-Kranthi/Ecommerce-pipeline-databricks) | PySpark · Databricks · Delta Lake · SQL | End-to-end data pipeline using Medallion Architecture; ingests raw e-commerce data through Bronze, Silver, and Gold layers for BI-ready reporting |
-| *(Your project name)* | *(Tools)* | *(One-line description of what it does and why it matters)* |
-| *(Your project name)* | *(Tools)* | *(One-line description of what it does and why it matters)* |
+| [E-Commerce Data Pipeline on Databricks](https://github.com/KP-Kranthi/Ecommerce-pipeline-databricks) | End-to-end ETL pipeline using Medallion Architecture (Bronze → Silver → Gold) | Databricks, PySpark, Delta Lake, Unity Catalog |
+| [Telco Customer Churn Prediction](https://github.com/KP-Kranthi/Telco-Customer-Churn-Prediction) | ML classification model — 79.2% accuracy after tuning | Python, Scikit-learn, Decision Tree, KNN |
+| [Diabetes Early Detection](https://github.com/KP-Kranthi/Diabetes-early-detection-Prevention-) | Predictive analytics for early disease detection | Python, Jupyter |
+
+---
 
 ---
 
 ## 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kranthi%20Kiran-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/kranthi-paul-536b25158)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kranthi%20Paul-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/kranthi-paul-536b25158)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-KP--Kranthi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KP-Kranthi)
 
