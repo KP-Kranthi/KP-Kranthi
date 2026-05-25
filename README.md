@@ -4,7 +4,9 @@
 
 ---
 
-Data analyst with hands-on experience in business reporting, interactive dashboards, and end-to-end data pipeline development. Actively building expertise in data analytics and data engineering, with hands-on experience in dashboards, reporting, and end-to-end pipeline development. Passionate about turning raw data into decisions that matter. 
+Actively building expertise in data analytics and data engineering 
+through hands-on projects in reporting, dashboards, and pipeline 
+development. Passionate about turning raw data into decisions that matter.
 
 ---
 
