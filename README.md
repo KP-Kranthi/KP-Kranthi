@@ -14,7 +14,7 @@ pipelines to executive dashboards.
 
 | Project | Tools | What It Does |
 |---|---|---|
-| [SQL Business Analytics](SQL) | MySQL | Advanced window functions, CTEs, monthly business reporting |
+| [SQL Business Analytics]((https://github.com/KP-Kranthi/data-analyst-portfolio/tree/main/SQL)) | MySQL | Advanced window functions, CTEs, monthly business reporting |
 | [Telco Churn Prediction](https://github.com/KP-Kranthi/Telco-Customer-Churn-Prediction) | Python, Scikit-learn | 79.2% accuracy churn model |
 | [E-Commerce Data Pipeline](https://github.com/KP-Kranthi/Ecommerce-pipeline-databricks) | Databricks, PySpark | End-to-end Medallion Architecture pipeline |
 | [Diabetes Detection](https://github.com/KP-Kranthi/Diabetes-early-detection-Prevention-) | Python, ML | Early detection classification model |
