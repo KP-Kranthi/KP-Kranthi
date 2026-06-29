@@ -20,4 +20,4 @@ pipelines to executive dashboards.
 | [Diabetes Detection](https://github.com/KP-Kranthi/Diabetes-early-detection-Prevention-) | Python, ML | Early detection classification model |
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/kranthi-paul-536b25158)
